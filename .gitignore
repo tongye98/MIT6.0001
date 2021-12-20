@@ -1,4 +1,3 @@
 *.out 
 *.exe
-.ipynb_checkpoints
-
+.ipynb_checkpoints/*
